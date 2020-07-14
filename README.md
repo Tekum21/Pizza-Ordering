@@ -49,7 +49,7 @@ Timsort is a hybrid algorithm, derived from merge sort and insertion sort, desig
 Linear search is one of the simplest searching algorithms, and the easiest to understand. The time complexity of linear search is O(n), meaning that the time taken to execute increases with the number of items in our input list. Although linear search is not often used in practice, because the same efficiency can be achieved by using inbuilt methods or existing operators, and it is not as fast or efficient as other search algorithms, nevertheless linear search is a good fit for this project since we are using an unsorted collection of items. Unlike most other search algorithms, it does not require that a collection be sorted before searching begins.
 
 ### Refrences:
-https://stackoverflow.com/questions/10948920/what-algorithm-does-pythons-sorted-use https://en.wikipedia.org/wiki/Timsort
-https://stackabuse.com/search-algorithms-in-python/
-https://github.com/topics/pizza-order
-https://github.com/mddemarie/pizza-ordering-system
+- https://stackoverflow.com/questions/10948920/what-algorithm-does-pythons-sorted-use https://en.wikipedia.org/wiki/Timsort
+- https://stackabuse.com/search-algorithms-in-python/
+- https://github.com/topics/pizza-order
+- https://github.com/mddemarie/pizza-ordering-system
